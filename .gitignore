@@ -47,5 +47,5 @@ Temporary Items
 .apdisk
 
 # Other ignores
-\DeltaServiceExpress\DeltaServiceExpress\obj\Debug
-\DeltaServiceExpress\DeltaServiceExpress\Properties
+/DeltaServiceExpress/DeltaServiceExpress/obj/Debug
+/DeltaServiceExpress/DeltaServiceExpress/Properties
